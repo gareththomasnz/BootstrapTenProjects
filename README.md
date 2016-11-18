@@ -7,6 +7,8 @@ Udemy Bootstrap
 
 Komodo - hand coding exercise
 
+Large amount of cut & paste as its revision
+
 
 ## Authors
 
